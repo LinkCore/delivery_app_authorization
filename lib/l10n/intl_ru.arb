@@ -1,0 +1,18 @@
+{
+  "signInTitle": "Авторизация",
+  "signInButton": "Войти",
+  "signInLoginTextLabel": "Логин или почта",
+  "signInPasswordTextLabel": "Пароль",
+  "alertDialogAllowButton": "OK",
+  "checkDataCorrectionError": "Ошибка валидации",
+  "checkDataCorrectionErrorExplanation": "Проверьте правильность введенных данных",
+  "incorrectEmailError": "Неверная почта",
+  "signUpButton": "Зарегистрироваться",
+  "tooSmallPasswordError": "Пароль должен состоять более чем из 4х символов",
+  "signOutButton": "Выйти",
+  "profileTitle": "Профиль",
+  "wip" : "В процессе реализации",
+  "feedLabel": "Лента",
+  "mapLabel": "Карта",
+  "favoritesLabel": "Избранные"
+}

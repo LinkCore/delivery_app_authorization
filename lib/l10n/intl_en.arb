@@ -1,0 +1,18 @@
+{
+  "signInTitle": "Authorization",
+  "signInButton": "Sign in",
+  "signInLoginTextLabel": "Login or email",
+  "signInPasswordTextLabel": "Password",
+  "alertDialogAllowButton": "OK",
+  "checkDataCorrectionErrorTitle": "Validation error",
+  "checkDataCorrectionErrorExplanation": "Check that the entered data is correct",
+  "incorrectEmailError": "Incorrect email",
+  "signUpButton": "Sign Up",
+  "tooSmallPasswordError": "Password must contains more than 4 characters.",
+  "signOutButton": "Sign out",
+  "profileTitle": "Profile",
+  "wip": "Work in progress",
+  "feedLabel": "Feed",
+  "mapLabel": "Map",
+  "favoritesLabel": "Favourites"
+}
